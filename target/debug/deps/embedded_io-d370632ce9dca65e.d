@@ -1,9 +1,0 @@
-C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\deps\libembedded_io-d370632ce9dca65e.rmeta: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\lib.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\mod.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_mut.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_ref.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\../README.md
-
-C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\deps\embedded_io-d370632ce9dca65e.d: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\lib.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\mod.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_mut.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_ref.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\../README.md
-
-C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\lib.rs:
-C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\mod.rs:
-C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_mut.rs:
-C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\impls\slice_ref.rs:
-C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embedded-io-0.6.1\src\../README.md:

@@ -1,8 +1,0 @@
-cargo:rustc-check-cfg=cfg(armv6m)
-cargo:rustc-check-cfg=cfg(armv7m)
-cargo:rustc-check-cfg=cfg(armv8m)
-cargo:rustc-check-cfg=cfg(cortex_m)
-cargo:rustc-check-cfg=cfg(has_fpu)
-cargo:rustc-link-search=C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\build\cortex-m-rt-5acf339a6a8d3700\out
-cargo:rerun-if-changed=build.rs
-cargo:rerun-if-changed=link.x.in
