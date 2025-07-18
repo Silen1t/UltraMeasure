@@ -34,12 +34,8 @@ async fn main(spawner: Spawner) {
     loop {
         // Wait for echo to go high
         match sensor.measure_distance(100.0).await {
-            Ok(hit_point_distance) => {
-
-            }
-            Err(_) => {
-                // control.gpio_set(0, false).await;
-            }
+            Ok(hit_point_distance) => {}
+            Err(_) => {}
         }
 
         // Wait before next measurement
