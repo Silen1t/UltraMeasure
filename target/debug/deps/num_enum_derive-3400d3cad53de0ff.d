@@ -1,0 +1,9 @@
+C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\deps\num_enum_derive-3400d3cad53de0ff.dll: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
+
+C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\deps\num_enum_derive-3400d3cad53de0ff.d: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
+
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs:
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs:
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs:
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs:
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs:

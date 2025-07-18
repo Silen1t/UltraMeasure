@@ -1,0 +1,6 @@
+C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\build\embassy-hal-internal-767d7cce1b4255f8\build_script_build-767d7cce1b4255f8.exe: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\build.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\.\build_common.rs
+
+C:\Users\youse\Documents\NativeCode_Projects\Pi Pico W\Rust\Utilities\ultra_measure\target\debug\build\embassy-hal-internal-767d7cce1b4255f8\build_script_build-767d7cce1b4255f8.d: C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\build.rs C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\.\build_common.rs
+
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\build.rs:
+C:\Users\youse\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-hal-internal-0.3.0\.\build_common.rs:

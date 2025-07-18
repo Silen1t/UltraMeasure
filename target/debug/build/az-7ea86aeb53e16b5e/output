@@ -1,0 +1,6 @@
+$ mkdir -p "C:\\Users\\youse\\Documents\\NativeCode_Projects\\Pi Pico W\\Rust\\Utilities\\ultra_measure\\target\\debug\\build\\az-7ea86aeb53e16b5e\\out\\try_track_caller"
+$ cd "C:\\Users\\youse\\Documents\\NativeCode_Projects\\Pi Pico W\\Rust\\Utilities\\ultra_measure\\target\\debug\\build\\az-7ea86aeb53e16b5e\\out\\try_track_caller"
+$ printf '%s' "// try_tra"... > "C:\\Users\\youse\\Documents\\NativeCode_Projects\\Pi Pico W\\Rust\\Utilities\\ultra_measure\\target\\debug\\build\\az-7ea86aeb53e16b5e\\out\\try_track_caller\\try_track_caller.rs"
+$ "rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "C:\\Users\\youse\\Documents\\NativeCode_Projects\\Pi Pico W\\Rust\\Utilities\\ultra_measure\\target\\debug\\build\\az-7ea86aeb53e16b5e\\out\\try_track_caller"
