@@ -2,7 +2,7 @@
 
 `UltraMeasure` is an embedded Rust library for controlling and reading distance from ultrasonic sensors (e.g., HC-SR04) using the [`embassy-rp`](https://crates.io/crates/embassy-rp) async framework.
 
-**Note:** Accurate, async distance sensing made simple with Embassy + RP2040.
+>  **Note:** Accurate, async distance sensing made simple with Embassy + RP2040.
 
 ## Features
 
@@ -10,6 +10,8 @@
 - Designed for Embassy embedded framework
 - Simple API for safe and non-blocking measurements
 - Suitable for sensors like HC-SR04
+  
+> ⚠️ **Note**: This library is currently compatible only with **Raspberry Pi Pico W** using `embassy-rp`.
 
 ## how to use it
 
@@ -44,4 +46,4 @@ async fn main(spawner: Spawner) {
 }
 ```
 
-**Note:** Always call `Timer::after(Duration::from_millis(500)).await;` at the end of each loop iteration to ensure the sensor is detecting.
+> ⚠️ **Note:** Always call `Timer::after(Duration::from_millis(500)).await;` at the end of each loop iteration to ensure the sensor is detecting.
