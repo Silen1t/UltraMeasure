@@ -44,7 +44,7 @@ impl<'a> UltraMeasure<'a> {
         let duration = Instant::now() - start;
 
         // Calculate distance
-        let hit_point_distance = (duration.as_micros() as f32) / 58.0;
-        Ok(hit_point_distance)
+        let distance = (duration.as_micros() as f32) / 58.0;
+        Ok(distance)
     }
 }
