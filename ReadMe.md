@@ -36,7 +36,7 @@ async fn main(spawner: Spawner) {
     loop {
         // Wait for echo to go high
         match sensor.measure_distance(100.0).await {
-            Ok(hit_point_distance) => {}
+            Ok(distance) => {}
             Err(_) => {}
         }
 
