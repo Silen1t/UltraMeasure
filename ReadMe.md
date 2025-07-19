@@ -27,11 +27,11 @@ use ::{ defmt_rtt as _, panic_probe as _ };
 async fn main(spawner: Spawner) {
     let p = embassy_rp::init(Default::default());
 
+    let trigger = Output::new(p.PIN_14, Level::Low);
+    let echo = Input::new(p.PIN_15, Pull::None);
+
     // Init Sensor
-    let mut sensor = UltraMeasure::new(
-        Output::new(p.PIN_14, Level::Low),
-        Input::new(p.PIN_15, Pull::None)
-    );
+    let mut sensor = UltraMeasure::new(trigger, echo);
 
     loop {
         // Wait for echo to go high
