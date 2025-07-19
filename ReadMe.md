@@ -32,10 +32,11 @@ async fn main(spawner: Spawner) {
 
     // Init Sensor
     let mut sensor = UltraMeasure::new(trigger, echo);
+    let detect_distance: f32 = 100.0;
 
     loop {
         // Wait for echo to go high
-        match sensor.measure_distance(100.0).await {
+        match sensor.measure_distance(detect_distance).await {
             Ok(distance) => {}
             Err(_) => {}
         }
