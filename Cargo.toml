@@ -3,15 +3,19 @@ name = "ultra_measure"
 version = "1.0.0"
 edition = "2024"
 
-[patch.crates-io]
-embassy-time-driver = { git = "https://github.com/embassy-rs/embassy", rev = "e3aff14", package = "embassy-time-driver" }
-embassy-time = { git = "https://github.com/embassy-rs/embassy", rev = "e3aff14", package = "embassy-time" }
+[lib]
+name = "ultra_measure"
+path = "src/ultra_measure.rs"
+
+[features]
+default = ["with-embassy"]
+with-embassy = ["embassy-time", "embassy-rp"]
 
 [dependencies]
-embassy-time = { version = "0.4.0", features = [
+embassy-time = {  git = "https://github.com/embassy-rs/embassy", rev = "e3aff14", package = "embassy-time", features = [
     "defmt",
     "defmt-timestamp-uptime",
-] }
+]  }
 embassy-rp = { git = "https://github.com/embassy-rs/embassy", rev = "e3aff14", package = "embassy-rp", features = [
     "defmt",
     "unstable-pac",
@@ -22,6 +26,4 @@ embassy-rp = { git = "https://github.com/embassy-rs/embassy", rev = "e3aff14", p
 defmt-rtt = "1.0.0"
 panic-probe = { version = "1.0.0", features = ["print-defmt"] }
 
-[lib]
-name = "ultra_measure"
-path = "src/ultra_measure.rs"
+
