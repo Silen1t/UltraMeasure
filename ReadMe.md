@@ -13,6 +13,16 @@
   
 > ⚠️ **Note**: This library is currently compatible only with **Raspberry Pi Pico W** using `embassy-rp`.
 
+## How to add it
+
+Add this to your `Cargo.toml`:
+
+```toml
+[dependencies]
+ultra_measure = { git = "https://github.com/Silen1t/UltraMeasure.git" }
+## How to use it
+```
+
 ## How to use it
 
 ```rs
