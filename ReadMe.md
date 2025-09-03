@@ -13,7 +13,7 @@
   
 > ⚠️ **Note**: This library is currently compatible only with **Raspberry Pi Pico W** using `embassy-rp`.
 
-## how to use it
+## How to use it
 
 ```rs
 use defmt::*;
