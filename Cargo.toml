@@ -11,7 +11,7 @@ path = "src/ultra_measure.rs"
 embassy-time = { version = ">=0.4", features = ["defmt","defmt-timestamp-uptime"] }
 embassy-rp = { version = ">=0.4", features = ["defmt","unstable-pac","time-driver","critical-section-impl","rp2040"] }
 
-defmt-rtt = "1.0.0"
-panic-probe = { version = "1.0.0", features = ["print-defmt"] }
+defmt-rtt = ">=1.0.0"
+panic-probe = { version = ">=1.0.0", features = ["print-defmt"] }
 
 
