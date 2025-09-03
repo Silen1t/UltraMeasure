@@ -20,7 +20,6 @@ Add this to your `Cargo.toml`:
 ```toml
 [dependencies]
 ultra_measure = { git = "https://github.com/Silen1t/UltraMeasure.git" }
-## How to use it
 ```
 
 ## How to use it
